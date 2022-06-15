@@ -1,1 +1,2 @@
 # Building-Enterprise-Workflow
+This paper is in response to build a workflow for HomeSmarts.com. The company needs to adopt several optimized technologies and architectures to build a streamlined workflow of operations for product delivery through the company’s sales channels (e-commerce, m-commerce, and retailing). Competitive and operational advantages for each topic is also required to support and improve the company’s current market position and its business objectives.     
